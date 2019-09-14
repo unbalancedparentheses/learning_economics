@@ -22,13 +22,31 @@
 
 - [Irrational Exuberance - Robert J. Shiller](https://www.goodreads.com/book/show/100132.Irrational_Exuberance)
 
+- [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?)
+
+- [The Wealth of Nations - Adam Smith]()
+
+# Finance
+
+- [The Eurodollar Futures and Options Handbook]()
+
+- [Trading and Exchanges : Market Microstructure for Practitioners]()
+
+# History
+
+- [The Money Interest and the Public Interest : American Monetary Thought, 1920-1970 - Perry Mehrling]()
+
 - [More Money Than God: Hedge Funds and the Making of a New Elite - Sebastian Mallaby](https://www.goodreads.com/book/show/7936425-more-money-than-god)
 
-- [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?)
+- [Lombard Street: A Description of the Money Market - Walter Bagehot](https://www.goodreads.com/book/show/443427.Lombard_Street)
+
+- [Adam Smith : What He Thought, and Why it Matters - Jesse Norman]()
+
+- [The Marshall Plan : Dawn of the Cold War](Benn Steil)
 
 # Papers
 
-- [ Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
+- [Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
 
 - [A Quantitative Approach to Tactical Asset Allocation - Meb Faber](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461)
 
