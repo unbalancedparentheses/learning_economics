@@ -4,6 +4,10 @@
 
 - [Ergodcity economics - Ole Peters](https://ergodicityeconomics.com/lecture-notes/)
 
+- [Stigum's Money Market - Marcia Stigum](https://www.goodreads.com/book/show/1889541.Stigum_s_Money_Market)
+
+- [The New Lombard Street: How the Fed Became the Dealer of Last Resort -  Perry G. Mehrling](https://www.goodreads.com/book/show/9413736-the-new-lombard-street)
+
 - [Artemis Capital research](https://www.artemiscm.com/welcome#research)
 
 - [Stabilizing an Unstable Economy: A Twentieth Century Fund Report -  Hyman P. Minsky](https://www.goodreads.com/book/show/5140563-stabilizing-an-unstable-economy)
@@ -22,4 +26,12 @@
 
 # Papers
 
+- [ Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
+
 - [A Quantitative Approach to Tactical Asset Allocation - Meb Faber](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461)
+
+- [The Rate of Return on Everything, 1870–2015 - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor (2019)](https://economics.harvard.edu/files/economics/files/ms28533.pdf)
+
+- [Everybody's Doing it: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457)
+
+- [Tight money paradox on the loose: a fiscalist hyperinflation - Eduardo Loyo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.75.1080)
