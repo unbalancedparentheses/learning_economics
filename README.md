@@ -24,6 +24,8 @@
 
 - [More Money Than God: Hedge Funds and the Making of a New Elite - Sebastian Mallaby](https://www.goodreads.com/book/show/7936425-more-money-than-god)
 
+- [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?)
+
 # Papers
 
 - [ Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
