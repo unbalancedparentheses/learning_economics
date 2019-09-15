@@ -44,6 +44,10 @@
 
 - [The Marshall Plan : Dawn of the Cold War](Benn Steil)
 
+# Online courses
+
+[Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
+
 # Papers
 
 - [Money creation in the modern economy - Bank of England](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
@@ -52,7 +56,7 @@
 
 - [A Quantitative Approach to Tactical Asset Allocation - Meb Faber](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461)
 
-- [The Rate of Return on Everything, 1870–2015 - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor (2019)](https://economics.harvard.edu/files/economics/files/ms28533.pdf)
+- [The Rate of Return on Everything, 1870–2015 - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor](https://economics.harvard.edu/files/economics/files/ms28533.pdf)
 
 - [Everybody's Doing it: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457)
 
