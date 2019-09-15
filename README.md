@@ -1,4 +1,4 @@
-# Economics readings
+# Economics
 
 - [Debunking economics - Steve Keen](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition)
 
@@ -22,8 +22,6 @@
 
 - [Irrational Exuberance - Robert J. Shiller](https://www.goodreads.com/book/show/100132.Irrational_Exuberance)
 
-- [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?)
-
 - [The Wealth of Nations - Adam Smith]()
 
 # Finance
@@ -32,21 +30,14 @@
 
 - [Trading and Exchanges : Market Microstructure for Practitioners]()
 
-# History
+- [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?)
 
-- [The Money Interest and the Public Interest : American Monetary Thought, 1920-1970 - Perry Mehrling]()
-
-- [More Money Than God: Hedge Funds and the Making of a New Elite - Sebastian Mallaby](https://www.goodreads.com/book/show/7936425-more-money-than-god)
-
-- [Lombard Street: A Description of the Money Market - Walter Bagehot](https://www.goodreads.com/book/show/443427.Lombard_Street)
-
-- [Adam Smith : What He Thought, and Why it Matters - Jesse Norman]()
-
-- [The Marshall Plan : Dawn of the Cold War](Benn Steil)
 
 # Online courses
 
-[Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
+- [Economics of Money and Banking - Perry G Mehrling](https://www.coursera.org/learn/money-banking)
+
+- [Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
 
 # Papers
 
@@ -61,3 +52,15 @@
 - [Everybody's Doing it: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457)
 
 - [Tight money paradox on the loose: a fiscalist hyperinflation - Eduardo Loyo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.75.1080)
+
+# History
+
+- [The Money Interest and the Public Interest : American Monetary Thought, 1920-1970 - Perry Mehrling]()
+
+- [More Money Than God: Hedge Funds and the Making of a New Elite - Sebastian Mallaby](https://www.goodreads.com/book/show/7936425-more-money-than-god)
+
+- [Lombard Street: A Description of the Money Market - Walter Bagehot](https://www.goodreads.com/book/show/443427.Lombard_Street)
+
+- [Adam Smith : What He Thought, and Why it Matters - Jesse Norman]()
+
+- [The Marshall Plan : Dawn of the Cold War](Benn Steil)
