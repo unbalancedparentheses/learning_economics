@@ -30,6 +30,13 @@
 
 - [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?)
 
+- [AQR research](https://www.aqr.com/Insights/Research)
+
+- [Alhambra research](https://www.alhambrapartners.com/commentaryanalysis/)
+
+- [Alpha architect research](https://alphaarchitect.com/blog/)
+
+- [Artemis Capital research](https://www.artemiscm.com/welcome#research)
 
 # Online courses
 
@@ -38,8 +45,6 @@
 - [Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
 
 # Papers
-
-- [Artemis Capital research](https://www.artemiscm.com/welcome#research)
 
 - [Money creation in the modern economy - Bank of England](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 
