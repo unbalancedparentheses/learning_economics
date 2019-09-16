@@ -8,8 +8,6 @@
 
 - [The New Lombard Street: How the Fed Became the Dealer of Last Resort -  Perry G. Mehrling](https://www.goodreads.com/book/show/9413736-the-new-lombard-street)
 
-- [Artemis Capital research](https://www.artemiscm.com/welcome#research)
-
 - [Stabilizing an Unstable Economy: A Twentieth Century Fund Report -  Hyman P. Minsky](https://www.goodreads.com/book/show/5140563-stabilizing-an-unstable-economy)
 
 - [Misbehaving: The Making of Behavioral Economics - Richard H. Thaler](https://www.goodreads.com/book/show/26530355-misbehaving)
@@ -40,6 +38,8 @@
 - [Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
 
 # Papers
+
+- [Artemis Capital research](https://www.artemiscm.com/welcome#research)
 
 - [Money creation in the modern economy - Bank of England](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 
