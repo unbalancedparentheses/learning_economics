@@ -38,6 +38,8 @@
 
 - [Artemis Capital research](https://www.artemiscm.com/welcome#research)
 
+- [Meb Faber's research](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=649342)
+
 # Online courses
 
 - [Economics of Money and Banking - Perry G Mehrling](https://www.coursera.org/learn/money-banking)
