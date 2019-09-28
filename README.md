@@ -60,6 +60,8 @@
 
 - [Tight money paradox on the loose: a fiscalist hyperinflation - Eduardo Loyo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.75.1080)
 
+- [Optimal leverage from non-ergodicity - Ole Peters](https://arxiv.org/abs/0902.2965v2)
+
 # History
 
 - [The Money Interest and the Public Interest : American Monetary Thought, 1920-1970 - Perry Mehrling](https://www.goodreads.com/book/show/1353559.The_Money_Interest_and_the_Public_Interest)
