@@ -62,6 +62,10 @@
 
 - [Optimal leverage from non-ergodicity - Ole Peters](https://arxiv.org/abs/0902.2965v2)
 
+## Argentina
+
+- [Un modelo de estancamiento económico - Estudio de caso sobre la economíaargentinaOscar Braun; Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
+
 # History
 
 - [The Money Interest and the Public Interest : American Monetary Thought, 1920-1970 - Perry Mehrling](https://www.goodreads.com/book/show/1353559.The_Money_Interest_and_the_Public_Interest)
