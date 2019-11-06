@@ -18,6 +18,8 @@
 
 - [Optimal leverage from non-ergodicity - Ole Peters](https://arxiv.org/abs/0902.2965v2)
 
+- [A Child's Guide to Rational Expectations - Rodney Maddock, Michael Carter](https://www.jstor.org/stable/2724658)
+
 ## Argentina
 
 - [Un modelo de estancamiento económico - Estudio de caso sobre la economíaargentinaOscar Braun; Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
