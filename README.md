@@ -20,9 +20,11 @@
 
 - [A Child's Guide to Rational Expectations - Rodney Maddock, Michael Carter](https://www.jstor.org/stable/2724658)
 
+- [Emerging Market BusinessCycles: The Cycle is the Trend - Mark Aguiar, Gita Gopinath](https://dash.harvard.edu/bitstream/handle/1/11988098/Gopinath_EmergingMarket.pdf)
+
 ## Argentina
 
-- [Un modelo de estancamiento económico - Estudio de caso sobre la economíaargentinaOscar Braun; Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
+- [Un modelo de estancamiento económico - Estudio de caso sobre la economía argentina - Oscar Braun, Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
 
 # Economics
 
