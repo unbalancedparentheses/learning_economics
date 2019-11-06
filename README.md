@@ -1,3 +1,27 @@
+# Economics études
+
+# Papers
+
+- [Is Inflation Always and Everywhere a Monetary Phenomenon? - Richard Bolling](https://www.jstor.org/stable/3441104)
+
+- [Money creation in the modern economy - Bank of England](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
+
+- [Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
+
+- [A Quantitative Approach to Tactical Asset Allocation - Meb Faber](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461)
+
+- [The Rate of Return on Everything, 1870–2015 - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor](https://economics.harvard.edu/files/economics/files/ms28533.pdf)
+
+- [Everybody's Doing it: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457)
+
+- [Tight money paradox on the loose: a fiscalist hyperinflation - Eduardo Loyo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.75.1080)
+
+- [Optimal leverage from non-ergodicity - Ole Peters](https://arxiv.org/abs/0902.2965v2)
+
+## Argentina
+
+- [Un modelo de estancamiento económico - Estudio de caso sobre la economíaargentinaOscar Braun; Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
+
 # Economics
 
 - [Debunking economics - Steve Keen](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition)
@@ -45,26 +69,6 @@
 - [Economics of Money and Banking - Perry G Mehrling](https://www.coursera.org/learn/money-banking)
 
 - [Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
-
-# Papers
-
-- [Money creation in the modern economy - Bank of England](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
-
-- [Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
-
-- [A Quantitative Approach to Tactical Asset Allocation - Meb Faber](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461)
-
-- [The Rate of Return on Everything, 1870–2015 - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor](https://economics.harvard.edu/files/economics/files/ms28533.pdf)
-
-- [Everybody's Doing it: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457)
-
-- [Tight money paradox on the loose: a fiscalist hyperinflation - Eduardo Loyo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.75.1080)
-
-- [Optimal leverage from non-ergodicity - Ole Peters](https://arxiv.org/abs/0902.2965v2)
-
-## Argentina
-
-- [Un modelo de estancamiento económico - Estudio de caso sobre la economíaargentinaOscar Braun; Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
 
 # History
 
