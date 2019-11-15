@@ -22,6 +22,8 @@
 
 - [Emerging Market BusinessCycles: The Cycle is the Trend - Mark Aguiar, Gita Gopinath](https://dash.harvard.edu/bitstream/handle/1/11988098/Gopinath_EmergingMarket.pdf)
 
+- [Predicting recessions: financial cycle versus term spread - Claudio Borio, Mathias Drehmann and Dora Xia Monetary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3468418)
+
 ## Argentina
 
 - [Un modelo de estancamiento económico - Estudio de caso sobre la economía argentina - Oscar Braun, Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
