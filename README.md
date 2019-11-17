@@ -32,6 +32,10 @@
 
 - [Modeling complex ecological economic systems: toward an evolutionary, dynamic understanding of people and nature - Robert Costanza](https://pdxscholar.library.pdx.edu/iss_pub/58/)
 
+# Ergodicity economics
+
+- [Dinamics of inequality - Ole Peters, Alexander Adamou](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2016.00918.x)
+
 # Economics
 
 - [Debunking economics - Steve Keen](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition)
