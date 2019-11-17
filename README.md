@@ -28,6 +28,10 @@
 
 - [Un modelo de estancamiento económico - Estudio de caso sobre la economía argentina - Oscar Braun, Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
 
+## Complexity
+
+- [Modeling complex ecological economic systems: toward an evolutionary, dynamic understanding of people and nature - Robert Costanza](https://pdxscholar.library.pdx.edu/iss_pub/58/)
+
 # Economics
 
 - [Debunking economics - Steve Keen](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition)
