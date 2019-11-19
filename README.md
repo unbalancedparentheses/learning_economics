@@ -24,6 +24,10 @@
 
 - [Predicting recessions: financial cycle versus term spread - Claudio Borio, Mathias Drehmann and Dora Xia Monetary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3468418)
 
+## Finance
+[Option Pricing Under Power Laws: A Robust Heuristic - Nassim Nicholas Taleb, Brandon Yarckin, Chitpuneet Mann, Damir Delic, Mark Spitznage](https://arxiv.org/abs/1908.02347)
+
+
 ## Argentina
 
 - [Un modelo de estancamiento económico - Estudio de caso sobre la economía argentina - Oscar Braun, Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
@@ -32,7 +36,7 @@
 
 - [Modeling complex ecological economic systems: toward an evolutionary, dynamic understanding of people and nature - Robert Costanza](https://pdxscholar.library.pdx.edu/iss_pub/58/)
 
-# Ergodicity economics
+## Ergodicity economics
 
 - [Dinamics of inequality - Ole Peters, Alexander Adamou](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2016.00918.x)
 
