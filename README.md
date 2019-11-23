@@ -64,6 +64,8 @@
 
 - [The Wealth of Nations - Adam Smith]()
 
+- [Where money comes from - Josh Collins]
+
 # Finance
 
 - [The Eurodollar Futures and Options Handbook]()
