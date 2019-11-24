@@ -99,14 +99,18 @@
 
 - [Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global)
 
-# History
+# History and others
 
 - [The Money Interest and the Public Interest : American Monetary Thought, 1920-1970 - Perry Mehrling](https://www.goodreads.com/book/show/1353559.The_Money_Interest_and_the_Public_Interest)
 
 - [More Money Than God: Hedge Funds and the Making of a New Elite - Sebastian Mallaby](https://www.goodreads.com/book/show/7936425-more-money-than-god)
+
+- [The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution]()
 
 - [Lombard Street: A Description of the Money Market - Walter Bagehot](https://www.goodreads.com/book/show/443427.Lombard_Street)
 
 - [Adam Smith : What He Thought, and Why it Matters - Jesse Norman](https://www.goodreads.com/book/show/37857057-adam-smith)
 
 - [The Marshall Plan : Dawn of the Cold War - Benn Steil](https://www.goodreads.com/book/show/35297577-the-marshall-plan)
+
+- [The Code of Capital: How the Law Creates Wealth and Inequality - Katharina Pistor]()
