@@ -25,9 +25,9 @@
 - [Predicting recessions: financial cycle versus term spread - Claudio Borio, Mathias Drehmann and Dora Xia Monetary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3468418)
 
 ## Finance
-[Option Pricing Under Power Laws: A Robust Heuristic - Nassim Nicholas Taleb, Brandon Yarckin, Chitpuneet Mann, Damir Delic, Mark Spitznage](https://arxiv.org/abs/1908.02347)
+- [Option Pricing Under Power Laws: A Robust Heuristic - Nassim Nicholas Taleb, Brandon Yarckin, Chitpuneet Mann, Damir Delic, Mark Spitznage](https://arxiv.org/abs/1908.02347)
 
-
+- [Risk Premia: Asymmetric Tail Risks and Excess Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2502743)
 ## Argentina
 
 - [Un modelo de estancamiento económico - Estudio de caso sobre la economía argentina - Oscar Braun, Leonard Joy](https://crecimientoeconomico-asiain.weebly.com/uploads/1/2/9/0/1290958/braun_y_joy_1981_un_modelo_de_estan_econ.pdf)
@@ -36,11 +36,14 @@
 
 - [Modeling complex ecological economic systems: toward an evolutionary, dynamic understanding of people and nature - Robert Costanza](https://pdxscholar.library.pdx.edu/iss_pub/58/)
 
+- [Complexity Economics Shows Us Why Laissez-Faire Economics Always Fails](https://evonomics.com/complexity-economics-shows-us-that-laissez-faire-fail-nickhanauer/)
+
 ## Ergodicity economics
 
 - [Dinamics of inequality - Ole Peters, Alexander Adamou](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2016.00918.x)
 
-# Economics
+
+# Books
 
 - [Debunking economics - Steve Keen](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition)
 
@@ -64,9 +67,9 @@
 
 - [The Wealth of Nations - Adam Smith]()
 
-- [Where money comes from - Josh Collins]
+- [Where money comes from - Josh Collins]()
 
-# Finance
+## Finance books
 
 - [The Eurodollar Futures and Options Handbook]()
 
@@ -101,7 +104,3 @@
 - [Adam Smith : What He Thought, and Why it Matters - Jesse Norman](https://www.goodreads.com/book/show/37857057-adam-smith)
 
 - [The Marshall Plan : Dawn of the Cold War - Benn Steil](https://www.goodreads.com/book/show/35297577-the-marshall-plan)
-
-# Articles
-
-[Complexity Economics Shows Us Why Laissez-Faire Economics Always Fails](https://evonomics.com/complexity-economics-shows-us-that-laissez-faire-fail-nickhanauer/)
