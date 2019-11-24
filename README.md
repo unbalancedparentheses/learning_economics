@@ -69,6 +69,12 @@
 
 - [Where money comes from - Josh Collins]()
 
+- [Extreme Economies: Survival, Failure, Future — Lessons from the World’s Limits - Richard Davies]()
+
+- [The Great Reversal - Thomas Philippon]()
+
+- [The Code of Capital: How the Law Creates Wealth and Inequality]()
+
 ## Finance books
 
 - [The Eurodollar Futures and Options Handbook]()
