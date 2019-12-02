@@ -24,6 +24,12 @@
 
 - [Predicting recessions: financial cycle versus term spread - Claudio Borio, Mathias Drehmann and Dora Xia Monetary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3468418)
 
+- [The Financial Crisis and the Systemic Failure of Academic Economics - Colander](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1355882)
+
+- [Deregulator: Judgment Day for microeconomics - Steve Keen]()
+
+- [The Dynamics of the Monetary Circuit - Steve Keen]
+
 ## Finance
 - [Option Pricing Under Power Laws: A Robust Heuristic - Nassim Nicholas Taleb, Brandon Yarckin, Chitpuneet Mann, Damir Delic, Mark Spitznage](https://arxiv.org/abs/1908.02347)
 
