@@ -1,5 +1,7 @@
 # Economics études
 
+> In a recent article Blanchard (2014) recognizes some of the shortcomings of this kind of approach, its assumption of linearity and oblivion of the financial system. He concludes his article by saying that DSGE (Dynamic Stochastic General Equilibrium) models can still be useful if we stay away from what he calls the dark corners - where the economy can malfunction badly - and leaves an insightful policy advice...” stay away from dark corners”! (Blanchard 2014, p. 4) Reading this, one comes to mind a famous quote from Keynes, that slightly modified seems quite appropriate: Economists set themselves too easy, too useless a task if in the dark corners they can only tell us that if we stay away from those dark corners everything will be fine. - Pedro Oliveira Pratas e Sousa
+
 # Papers
 
 - [Is Inflation Always and Everywhere a Monetary Phenomenon? - Richard Bolling](https://www.jstor.org/stable/3441104)
