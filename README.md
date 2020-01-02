@@ -36,6 +36,62 @@
 
 - [The Dynamics of the Monetary Circuit - Steve Keen]
 
+
+- [Dennis Rodman and the Art of Portfolio Optimization](https://www.artemiscm.com/s/Artemis-Research_Dennis-Rodman-and-Portfolio-Optimization_April2016-efr3.pdf)
+
+- [Volatility: A New Return Driver?](http://static.squarespace.com/static/53974e3ae4b0039937edb698/t/53da6400e4b0d5d5360f4918/1406821376095/Directional%20Volatility%20Research.pdf) - Greggory Flinn, Roger J. Schreiner
+
+- [Easy Volatility Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2255327) - Tony Cooper (2013)
+
+- [Everybody’s Doing It: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457) - Vineer Bhansali, Lawrence Harris (2018)
+
+- [Volatility-of-Volatility Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2497759)- Darien Huang, Christian Schlag, Ivan Shaliastovich, Julian Thimme (2018)
+
+- [Four Points Beginner Risk Managers Should Learn from Jeff Holman’s Mistakes in the Discussion of Antifragile - Taleb](https://arxiv.org/pdf/1401.2524.pdf)
+
+- [The Distribution of Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2828744) - David E. Harris (2017)
+
+- [Safe Haven Investing Part I - Not all risk mitigation is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart1_RiskMitigation.pdf) - Universa Investments (2017)
+
+- [Safe Haven Investing Part II - Not all risk is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart2_NotAllRisk.pdf) - Universa Investments (2017)
+
+- [Safe Haven Investing Part III - Those wonderful tenbaggers](https://www.universa.net/UniversaResearch_SafeHavenPart3_Tenbaggers.pdf) - Universa Investments (2017)
+
+- [Insurance makes wealth grow faster](https://arxiv.org/abs/1507.04655) - Ole Peters, Alexander Adamou (2017)
+
+- [Ergodicity economics](https://ergodicityeconomics.files.wordpress.com/2018/06/ergodicity_economics.pdf) - Ole Peters (2018)
+
+- [The Rate of Return on Everything, 1870–2015](https://economics.harvard.edu/files/economics/files/ms28533.pdf) - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor (2019)
+
+- [Volatility and the Alchemy of Risk](https://static1.squarespace.com/static/5581f17ee4b01f59c2b1513a/t/59ea16dbbe42d6ff1cae589f/1508513505640/Artemis_Volatility+and+the+Alchemy+of+Risk_2017.pdf) - Artemis Capital Management (2017)
+
+- [Trading Volatility](https://inference-review.com/article/trading-volatility) - Emanuel Derman
+
+- [Trends Everywhere](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3386035) - Abhilash Babu, Ari Levine, Yao Hua Ooi, Lasse Heje Pedersen, Erik Stamelos (2018)
+
+- [Two centuries of trend following - Y. Lempérière, C. Deremble, P. Seager, M. Potters, J. P. Bouchaud](https://arxiv.org/abs/1404.3274)
+
+- [Risk Premia: Asymmetric Tail Risks and Excess Returns - Bouchaud](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2502743)
+
+- [A Century of Evidence on Trend-Following Investing - AQR](https://www.aqr.com/Insights/Research/Journal-Article/A-Century-of-Evidence-on-Trend-Following-Investing)
+
+- [Why Not 100% Equities - AQR](https://www.aqr.com/Insights/Research/Journal-Article/Why-Not--Equities)
+
+- [Risk premia: asymmetric tail risks and excess returns - Bouchaud](https://www.tandfonline.com/doi/full/10.1080/14697688.2016.1183035)
+
+- [Black Scholes and the normal distribution](https://mathbabe.org/2013/03/12/black-scholes-and-the-normal-distribution/)
+
+- [Why log returns?](https://mathbabe.org/2011/08/30/why-log-returns/)
+
+- [The Variation of Some Other Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)
+
+- [A New Heuristic Measure of Fragility and Tail Risks : Application to Stress Testing -  Schmieder, Kinda, Taleb, Loukoianova, Canetti ](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/A-New-Heuristic-Measure-of-Fragility-and-Tail-Risks-Application-to-Stress-Testing-26222)
+
+- [Fallibility, Reflexivity, and the Human Uncertainty Principle - George Soros](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/)
+
+- [Option Pricing Under Power Laws: A Robust Heuristic - Taleb](https://arxiv.org/pdf/1908.02347)
+
+
 ## Finance
 - [Option Pricing Under Power Laws: A Robust Heuristic - Nassim Nicholas Taleb, Brandon Yarckin, Chitpuneet Mann, Damir Delic, Mark Spitznage](https://arxiv.org/abs/1908.02347)
 
@@ -53,7 +109,6 @@
 ## Ergodicity economics
 
 - [Dinamics of inequality - Ole Peters, Alexander Adamou](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2016.00918.x)
-
 
 # Books
 
@@ -88,6 +143,15 @@
 - [The Code of Capital: How the Law Creates Wealth and Inequality]()
 
 ## Finance books
+
+- Option Volatility and Pricing 2nd Ed. - Natemberg (2014)
+- Options, Futures, and Other Derivatives 10th Ed. - Hull (2017)
+- Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits 2nd Ed. - Passarelli (2012)
+- Trading Volatility - Bennet (2014)
+- Volatility Trading 2nd Ed. - Sinclair (2013)
+- Dynamic Hedging - Taleb (1997)
+- The Volatility Surface: A Practitioner's Guide - Gatheral (2006)
+- The Volatility Smile - Derman & Miller (2016)
 
 - [The Eurodollar Futures and Options Handbook]()
 
@@ -127,53 +191,4 @@
 
 - [The Code of Capital: How the Law Creates Wealth and Inequality - Katharina Pistor]()
 
-
-# Finance
-
-### Papers and Posts
-- [Dennis Rodman and the Art of Portfolio Optimization](https://www.artemiscm.com/s/Artemis-Research_Dennis-Rodman-and-Portfolio-Optimization_April2016-efr3.pdf)
-- [Doing a Laplace](https://ergodicityeconomics.com/2017/07/18/doing-a-laplace/)
-- [What’s a growth rate, really?](https://ergodicityeconomics.com/2019/03/13/whats-a-growth-rate-really/)
-- [Volatility: A New Return Driver?](http://static.squarespace.com/static/53974e3ae4b0039937edb698/t/53da6400e4b0d5d5360f4918/1406821376095/Directional%20Volatility%20Research.pdf) - Greggory Flinn, Roger J. Schreiner
-- [Easy Volatility Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2255327) - Tony Cooper (2013)
-- [Everybody’s Doing It: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457) - Vineer Bhansali, Lawrence Harris (2018)
-- [Volatility-of-Volatility Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2497759)- Darien Huang, Christian Schlag, Ivan Shaliastovich, Julian Thimme (2018)
-- [Four Points Beginner Risk Managers Should Learn from Jeff Holman’s Mistakes in the Discussion of Antifragile - Taleb](https://arxiv.org/pdf/1401.2524.pdf)
-- [The Distribution of Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2828744) - David E. Harris (2017)
-- [Safe Haven Investing Part I - Not all risk mitigation is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart1_RiskMitigation.pdf) - Universa Investments (2017)
-- [Safe Haven Investing Part II - Not all risk is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart2_NotAllRisk.pdf) - Universa Investments (2017)
-- [Safe Haven Investing Part III - Those wonderful tenbaggers](https://www.universa.net/UniversaResearch_SafeHavenPart3_Tenbaggers.pdf) - Universa Investments (2017)
-- [Insurance makes wealth grow faster](https://arxiv.org/abs/1507.04655) - Ole Peters, Alexander Adamou (2017)
-- [Ergodicity economics](https://ergodicityeconomics.files.wordpress.com/2018/06/ergodicity_economics.pdf) - Ole Peters (2018)
-- [The Rate of Return on Everything, 1870–2015](https://economics.harvard.edu/files/economics/files/ms28533.pdf) - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor (2019)
-- [Volatility and the Alchemy of Risk](https://static1.squarespace.com/static/5581f17ee4b01f59c2b1513a/t/59ea16dbbe42d6ff1cae589f/1508513505640/Artemis_Volatility+and+the+Alchemy+of+Risk_2017.pdf) - Artemis Capital Management (2017)
-- [Trading Volatility](https://inference-review.com/article/trading-volatility) - Emanuel Derman
-- [Trends Everywhere](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3386035) - Abhilash Babu, Ari Levine, Yao Hua Ooi, Lasse Heje Pedersen, Erik Stamelos (2018)
-- [Two centuries of trend following - Y. Lempérière, C. Deremble, P. Seager, M. Potters, J. P. Bouchaud](https://arxiv.org/abs/1404.3274)
-- [Risk Premia: Asymmetric Tail Risks and Excess Returns - Bouchaud](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2502743)
-- [A Century of Evidence on Trend-Following Investing - AQR](https://www.aqr.com/Insights/Research/Journal-Article/A-Century-of-Evidence-on-Trend-Following-Investing)
-- [Why Not 100% Equities - AQR](https://www.aqr.com/Insights/Research/Journal-Article/Why-Not--Equities)
-- [Risk premia: asymmetric tail risks and excess returns - Bouchaud](https://www.tandfonline.com/doi/full/10.1080/14697688.2016.1183035)
-- [Black Scholes and the normal distribution](https://mathbabe.org/2013/03/12/black-scholes-and-the-normal-distribution/)
-- [Why log returns?](https://mathbabe.org/2011/08/30/why-log-returns/)
-- [The Variation of Some Other Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)
-- [A New Heuristic Measure of Fragility and Tail Risks : Application to Stress Testing -  Schmieder, Kinda, Taleb, Loukoianova, Canetti ](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/A-New-Heuristic-Measure-of-Fragility-and-Tail-Risks-Application-to-Stress-Testing-26222)
-- [Fallibility, Reflexivity, and the Human Uncertainty Principle - George Soros](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/)
-- [Option Pricing Under Power Laws: A Robust Heuristic - Taleb](https://arxiv.org/pdf/1908.02347)
-
-### Books
-
-#### Introductory
-- Option Volatility and Pricing 2nd Ed. - Natemberg (2014)
-- Options, Futures, and Other Derivatives 10th Ed. - Hull (2017)
-- Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits 2nd Ed. - Passarelli (2012)
-
-#### Intermediate
-- Trading Volatility - Bennet (2014)
-- Volatility Trading 2nd Ed. - Sinclair (2013)
-
-#### Advanced
-- Dynamic Hedging - Taleb (1997)
-- The Volatility Surface: A Practitioner's Guide - Gatheral (2006)
-- The Volatility Smile - Derman & Miller (2016)
 
