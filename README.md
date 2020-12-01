@@ -91,6 +91,7 @@
 
 - [Option Pricing Under Power Laws: A Robust Heuristic - Taleb](https://arxiv.org/pdf/1908.02347)
 
+- [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 
 ## Finance
 
