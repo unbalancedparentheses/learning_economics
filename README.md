@@ -4,6 +4,12 @@
 
 >The shocking thing with Ergodicity Economics is that an Ergodicity Economics null model is often more powerful than a highly complex mainstream economics model. That’s why we’ve been working with null models: they’re so much more powerful than has been appreciated that it’s really silly, at this point, to do anything else. Of course such models can’t tell us why the fast-food restaurants in the suburbs of Boston had a bad October this year. So they’re limited in what they can say, but they’re extremely powerful in getting the big picture right. For instance,  Re-allocating Geometric Brownian Motion produces a realistic power-law tail for the wealth distribution. There are hundreds of papers out there struggling to explain the Pareto tail with detailed models and many parameters. - Ole Peters on Ergodicity Economics
 
+# People
+
+- Sornette
+- Bouchaud
+- [Vineer Bhansali](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=295979)
+
 # Papers
 
 - [Is Inflation Always and Everywhere a Monetary Phenomenon? - Richard Bolling](https://www.jstor.org/stable/3441104)
