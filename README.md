@@ -9,6 +9,14 @@
 - Sornette
 - Bouchaud
 - [Vineer Bhansali](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=295979)
+- Emanuel Derman
+- [Harel Jacobson](https://volquant.medium.com)
+- Nassim Nicholas Taleb
+- Ray Dalio
+- Steve Keen
+- Perry Mehrling
+- Robert Shiller
+- Jim Simons
 
 # Papers
 
