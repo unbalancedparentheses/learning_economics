@@ -17,100 +17,61 @@
 - Perry Mehrling
 - Robert Shiller
 - Jim Simons
+- Lyn Alden
+- Stanley Druckenmiller
 
 # Papers
 
 - [Is Inflation Always and Everywhere a Monetary Phenomenon? - Richard Bolling](https://www.jstor.org/stable/3441104)
-
 - [Money creation in the modern economy - Bank of England](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
-
 - [Banks are not intermediaries of loanable funds - facts, theory and evidence - Bank of England, Michael Kumhof](https://www.bankofengland.co.uk/working-paper/2018/banks-are-not-intermediaries-of-loanable-funds-facts-theory-and-evidence)
-
 - [Finance and Economic Breakdown: Modeling Minsky's "Financial Instability Hypothesis" - Steve Keen](http://keenomics.s3.amazonaws.com/debtdeflation_media/papers/JPKE1995PageImage9509152794.pdf)
-
 - [A Quantitative Approach to Tactical Asset Allocation - Meb Faber](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461)
-
 - [The Rate of Return on Everything, 1870–2015 - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor](https://economics.harvard.edu/files/economics/files/ms28533.pdf)
-
 - [Everybody's Doing it: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457)
-
 - [Tight money paradox on the loose: a fiscalist hyperinflation - Eduardo Loyo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.75.1080)
-
 - [Optimal leverage from non-ergodicity - Ole Peters](https://arxiv.org/abs/0902.2965v2)
-
 - [A Child's Guide to Rational Expectations - Rodney Maddock, Michael Carter](https://www.jstor.org/stable/2724658)
-
 - [Emerging Market BusinessCycles: The Cycle is the Trend - Mark Aguiar, Gita Gopinath](https://dash.harvard.edu/bitstream/handle/1/11988098/Gopinath_EmergingMarket.pdf)
-
 - [Predicting recessions: financial cycle versus term spread - Claudio Borio, Mathias Drehmann and Dora Xia Monetary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3468418)
-
 - [The Financial Crisis and the Systemic Failure of Academic Economics - Colander](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1355882)
-
 - [Deregulator: Judgment Day for microeconomics - Steve Keen]()
-
 - [The Dynamics of the Monetary Circuit - Steve Keen]
-
-
 - [Dennis Rodman and the Art of Portfolio Optimization](https://www.artemiscm.com/s/Artemis-Research_Dennis-Rodman-and-Portfolio-Optimization_April2016-efr3.pdf)
-
 - [Volatility: A New Return Driver?](http://static.squarespace.com/static/53974e3ae4b0039937edb698/t/53da6400e4b0d5d5360f4918/1406821376095/Directional%20Volatility%20Research.pdf) - Greggory Flinn, Roger J. Schreiner
-
 - [Easy Volatility Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2255327) - Tony Cooper (2013)
-
 - [Everybody’s Doing It: Short Volatility Strategies and Shadow Financial Insurers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071457) - Vineer Bhansali, Lawrence Harris (2018)
-
 - [Volatility-of-Volatility Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2497759)- Darien Huang, Christian Schlag, Ivan Shaliastovich, Julian Thimme (2018)
-
 - [Four Points Beginner Risk Managers Should Learn from Jeff Holman’s Mistakes in the Discussion of Antifragile - Taleb](https://arxiv.org/pdf/1401.2524.pdf)
-
 - [The Distribution of Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2828744) - David E. Harris (2017)
-
 - [Safe Haven Investing Part I - Not all risk mitigation is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart1_RiskMitigation.pdf) - Universa Investments (2017)
-
 - [Safe Haven Investing Part II - Not all risk is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart2_NotAllRisk.pdf) - Universa Investments (2017)
-
 - [Safe Haven Investing Part III - Those wonderful tenbaggers](https://www.universa.net/UniversaResearch_SafeHavenPart3_Tenbaggers.pdf) - Universa Investments (2017)
-
 - [Insurance makes wealth grow faster](https://arxiv.org/abs/1507.04655) - Ole Peters, Alexander Adamou (2017)
-
 - [Ergodicity economics](https://ergodicityeconomics.files.wordpress.com/2018/06/ergodicity_economics.pdf) - Ole Peters (2018)
-
 - [The Rate of Return on Everything, 1870–2015](https://economics.harvard.edu/files/economics/files/ms28533.pdf) - Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan M. Taylor (2019)
-
 - [Volatility and the Alchemy of Risk](https://static1.squarespace.com/static/5581f17ee4b01f59c2b1513a/t/59ea16dbbe42d6ff1cae589f/1508513505640/Artemis_Volatility+and+the+Alchemy+of+Risk_2017.pdf) - Artemis Capital Management (2017)
-
 - [Trading Volatility](https://inference-review.com/article/trading-volatility) - Emanuel Derman
-
 - [Trends Everywhere](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3386035) - Abhilash Babu, Ari Levine, Yao Hua Ooi, Lasse Heje Pedersen, Erik Stamelos (2018)
-
 - [Two centuries of trend following - Y. Lempérière, C. Deremble, P. Seager, M. Potters, J. P. Bouchaud](https://arxiv.org/abs/1404.3274)
-
 - [Risk Premia: Asymmetric Tail Risks and Excess Returns - Bouchaud](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2502743)
-
 - [A Century of Evidence on Trend-Following Investing - AQR](https://www.aqr.com/Insights/Research/Journal-Article/A-Century-of-Evidence-on-Trend-Following-Investing)
-
 - [Why Not 100% Equities - AQR](https://www.aqr.com/Insights/Research/Journal-Article/Why-Not--Equities)
-
 - [Risk premia: asymmetric tail risks and excess returns - Bouchaud](https://www.tandfonline.com/doi/full/10.1080/14697688.2016.1183035)
-
 - [Black Scholes and the normal distribution](https://mathbabe.org/2013/03/12/black-scholes-and-the-normal-distribution/)
-
 - [Why log returns?](https://mathbabe.org/2011/08/30/why-log-returns/)
-
 - [The Variation of Some Other Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)
-
 - [A New Heuristic Measure of Fragility and Tail Risks : Application to Stress Testing -  Schmieder, Kinda, Taleb, Loukoianova, Canetti ](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/A-New-Heuristic-Measure-of-Fragility-and-Tail-Risks-Application-to-Stress-Testing-26222)
-
 - [Fallibility, Reflexivity, and the Human Uncertainty Principle - George Soros](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/)
-
 - [Option Pricing Under Power Laws: A Robust Heuristic - Taleb](https://arxiv.org/pdf/1908.02347)
-
 - [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
+
+## Commodities and Gold
+- [Gold Investing with Lyn Alden](https://www.youtube.com/watch?v=8KT6TEo-Q0Y)
 
 ## Finance
 
 - [Option Pricing Under Power Laws: A Robust Heuristic - Nassim Nicholas Taleb, Brandon Yarckin, Chitpuneet Mann, Damir Delic, Mark Spitznage](https://arxiv.org/abs/1908.02347)
-
 - [Risk Premia: Asymmetric Tail Risks and Excess Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2502743)
 
 ## Argentina
