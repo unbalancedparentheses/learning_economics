@@ -6,6 +6,38 @@
 
 ---
 
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Ergodicity Economics
+- [An Introduction to Ergodicity Economics - Ole Peters & Alexander Adamou (LML Press, 2025)](https://ergodicityeconomics.com/an-introduction-to-ergodicity-economics/) - First proper textbook of the field
+- [The ergodicity solution of the cooperation puzzle - Peters & Adamou (Phil. Trans. Royal Society A, 2022)](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0425) - Cooperation as optimal strategy under multiplicative dynamics
+- [Reinforcement learning with non-ergodic reward increments (ICML 2024)](https://arxiv.org/abs/2310.11335) - Ergodicity transformations applied to RL agents
+
+### Volatility & Market Microstructure
+- [The Inelastic Market Hypothesis: A Microstructural Interpretation - Bouchaud (Quantitative Finance, 2022)](https://arxiv.org/abs/2108.00242) - Reconciles Gabaix-Koijen's macro finding with microstructure theory
+- [The 'double' square-root law - Maitrier, Loeper, Kanazawa & Bouchaud (2025)](https://arxiv.org/abs/2502.16246) - Confirms mechanical origin for the square-root impact law
+
+### Monetary Theory
+- [On Par: A Money View of Stablecoins - Aldasoro, Mehrling & Neilson (BIS, 2023)](https://www.bis.org/publ/work1146.htm) - Mehrling's money-view applied to stablecoins as structural Eurodollar analogs
+- [Money and Empire: Charles P. Kindleberger and the Dollar System - Mehrling (Cambridge, 2022)](https://www.cambridge.org/core/books/money-and-empire/CDA682F58594B316CE6BF973307C0356) - Best entry point into the money-view tradition
+- [A Money View of Keynes, Keynesians, and Post-Keynesians - Mehrling (INET, 2024)](https://www.ineteconomics.org/perspectives/blog/a-money-view-of-keynes-keynesians-and-post-keynesians) - Recasts macro history through the money-market plumbing lens
+
+### Complexity Economics
+- [Agent-Based Modeling in Economics and Finance - Axtell & Farmer (Journal of Economic Literature, 2025)](https://www.aeaweb.org/articles?id=10.1257%2Fjel.20221319) - Definitive ABM survey in the discipline's flagship journal
+- [The Economy as an Evolving Complex System IV (SFI Press, 2025)](https://www.sfipress.org/eecs-iv-01) - Latest volume with chapters on AI in markets and production networks
+
+### Tail Risk
+- [Statistical Consequences of Fat Tails (3rd Edition) - Taleb (2025)](https://arxiv.org/abs/2001.10488) - Three new chapters on maximum entropy distributions
+- [Working with Convex Responses: Antifragility from Finance to Oncology - Taleb & West (Entropy, 2023)](https://www.mdpi.com/1099-4300/25/2/343) - Formalizes antifragility as mathematical property of convex dose-response
+
+### Trend Following
+- [Diversifying Alternatives and the Rearview Mirror - Ilmanen & Maloney (AQR, 2025)](https://www.aqr.com/Insights/Research/White-Papers/Diversifying-Alternatives-and-the-Rearview-Mirror) - Why trend-following underperforms expectations during bull markets
+- [The Need for Speed in Trend-Following Strategies - Man AHL (2023)](https://hedgenordic.com/2023/03/the-need-for-speed-in-trend-following-strategies/) - Faster trend systems provide greater crisis-alpha convexity
+
+---
+
 # Table of Contents
 
 - [People](#people)
