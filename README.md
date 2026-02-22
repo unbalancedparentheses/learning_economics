@@ -38,6 +38,36 @@ A curated collection of books, papers, courses, and resources for studying econo
 - [Diversifying Alternatives and the Rearview Mirror - Ilmanen & Maloney (AQR, 2025)](https://www.aqr.com/Insights/Research/White-Papers/Diversifying-Alternatives-and-the-Rearview-Mirror) - Why trend-following underperforms expectations during bull markets
 - [The Need for Speed in Trend-Following Strategies - Man AHL (2023)](https://hedgenordic.com/2023/03/the-need-for-speed-in-trend-following-strategies/) - Faster trend systems provide greater crisis-alpha convexity
 
+### Market Microstructure / Bouchaud (New)
+- [Microstructure Modes -- Disentangling the Joint Dynamics of Prices & Order Flow - Elomari-Kessab, Maitrier, Bonart & Bouchaud (2024)](https://arxiv.org/abs/2405.10654) - PCA on order-by-order Eurostoxx data to decompose flow/return patterns into symmetric and anti-symmetric modes
+- [Ponzi Funds - van der Beck, Bouchaud & Villamaina (2024)](https://arxiv.org/abs/2405.12768) - How funds with illiquid portfolios generate self-inflated returns via their own price impact; predicts ETF bubbles
+- [The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility - Maitrier & Bouchaud (2025)](https://arxiv.org/abs/2506.07711) - Reconciles the square-root law of metaorder impact with random-walk prices and linear impact of order imbalances
+
+### Money View / Monetary Theory (New)
+- [Bagehot's Classical Money View: A Reconstruction - Mehrling (INET Working Paper, 2024)](https://www.ineteconomics.org/research/research-papers/bagehots-classical-money-view-a-reconstruction) - Reinterprets Bagehot's Lombard Street as the origin of the key currency tradition
+- [Central Bank Capitalism: Monetary Policy in Times of Crisis - Wullweber (Stanford UP, 2024)](https://www.sup.org/books/politics/central-bank-capitalism) - Shadow banking as backbone of the financial system; central banks as primary stabilizing force
+
+### Dollar System / Stablecoins (New)
+- [Stablecoins, Tokens, and Global Dominance - Rey (IMF Finance & Development, 2025)](https://www.imf.org/en/publications/fandd/issues/2025/09/stablecoins-tokens-global-dominance-helene-rey) - Geopolitical implications of dollar-denominated stablecoins; Tether and USDC hold more Treasuries than Saudi Arabia
+- [Understanding Stablecoins - IMF Departmental Paper (2025)](https://www.imf.org/en/publications/departmental-papers/issues/2025/12/02/understanding-stablecoins-570602) - 56-page overview of stablecoin arrangements, currency substitution risks, and regulatory frameworks
+
+### Complexity Economics (New)
+- [Making Sense of Chaos: A Better Economics for a Better World - J. Doyne Farmer (Yale UP, 2024)](https://yalebooks.yale.edu/book/9780300283327/making-sense-of-chaos/) - Farmer's manifesto for complexity economics using ABMs, big data, and computational methods
+- [Quantitative Agent-Based Models: A Promising Alternative for Macroeconomics - Farmer (Oxford Review of Economic Policy, 2025)](https://academic.oup.com/oxrep/advance-article/doi/10.1093/oxrep/graf027/8281854) - ABMs rival mainstream macro models; examples include leverage cycles, housing, and Covid predictions
+
+### Fiscal-Monetary Interactions (New)
+- [Fiscal R-Star: Fiscal-Monetary Tensions and Implications for Policy - Bolhuis, Koosakul & Shenai (IMF WP, 2024)](https://www.imf.org/en/publications/wp/issues/2024/08/09/fiscal-r-star-fiscal-monetary-tensions-and-implications-for-policy-552877) - 140+ years of data show fiscal-monetary tensions at historic highs, associated with rising debt and crisis risk
+- [Fiscal Dominance: Implications for Bond Markets and Central Banking - Barthelemy, Mengus & Plantin (Annual Review of Financial Economics, 2025)](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-112823-015801) - Models fiscal dominance as strategic interactions between government and central bank
+
+### AI in Finance (New)
+- [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency - Dou, Goldstein & Ji (NBER, 2025)](https://www.nber.org/papers/w34054) - RL-based AI speculators autonomously sustain collusive profits without agreement or communication
+
+### Volatility Research (New)
+- [Volatility of Volatility and VIX Forecasting - Qiao (Journal of Futures Markets, 2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.22553) - Novel vol-of-vol model using high-frequency VIX data with decomposed jumps and wavelet analysis
+
+### Ergodicity Economics (New)
+- [Ergodicity Transformations Predict Human Decision-Making Under Risk - Peters et al. (OSF Preprints, 2024)](https://osf.io/preprints/) - Experimental support showing ergodicity transformations predict actual human risk decisions
+
 ---
 
 ## Table of Contents
