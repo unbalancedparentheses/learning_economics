@@ -32,19 +32,19 @@ A curated collection of books, papers, courses, and resources for studying econo
 
 ## People
 
-- Sornette - Physicist turned financial economist known for predicting financial bubbles using log-periodic power law models
-- Bouchaud - Statistical physicist and co-founder of Capital Fund Management, a pioneer in applying physics to financial markets and price impact theory
+- [Didier Sornette](https://emeritus.er.ethz.ch/about-us/people/sornette.html) - Physicist turned financial economist known for predicting financial bubbles using log-periodic power law models
+- [Jean-Philippe Bouchaud](https://www.cfm.com/cfm-our-board/) - Statistical physicist and co-founder of Capital Fund Management, a pioneer in applying physics to financial markets and price impact theory
 - [Vineer Bhansali](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=295979) - Former PIMCO portfolio manager specializing in tail-risk hedging and volatility strategies
-- Emanuel Derman - Physicist and quant who co-developed the Black-Derman-Toy interest rate model, author of influential work on the limits of financial modeling
+- [Emanuel Derman](https://www.engineering.columbia.edu/faculty-staff/directory/emanuel-derman) - Physicist and quant who co-developed the Black-Derman-Toy interest rate model, author of influential work on the limits of financial modeling
 - [Harel Jacobson](https://volquant.medium.com) - Volatility trader and writer who explains options pricing, vol surfaces, and derivatives in accessible terms
-- Nassim Nicholas Taleb - Philosopher of probability and author of the Incerto series, known for formalizing tail risk, antifragility, and fat-tailed statistics
-- Ray Dalio - Founder of Bridgewater Associates, known for macro-economic frameworks on debt cycles, diversification principles, and radical transparency
-- Steve Keen - Post-Keynesian economist who models debt-driven instability and critiques neoclassical equilibrium assumptions
-- Perry Mehrling - Monetary economist who developed the "money view" framework, bridging central banking, shadow banking, and market-based credit systems
-- Robert Shiller - Nobel laureate in economics known for work on asset price bubbles, behavioral finance, and the CAPE ratio for long-run equity valuation
-- Jim Simons - Mathematician and founder of Renaissance Technologies, whose Medallion Fund achieved the greatest sustained returns in investment history
-- Lyn Alden - Macro analyst and engineer known for accessible writing on fiscal-monetary interactions, the dollar system, and commodity cycles
-- Stanley Druckenmiller - Legendary macro trader known for large concentrated bets on currencies, bonds, and equities, and for his role in breaking the Bank of England
+- [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) - Philosopher of probability and author of the Incerto series, known for formalizing tail risk, antifragility, and fat-tailed statistics
+- [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio) - Founder of Bridgewater Associates, known for macro-economic frameworks on debt cycles, diversification principles, and radical transparency
+- [Steve Keen](https://en.wikipedia.org/wiki/Steve_Keen) - Post-Keynesian economist who models debt-driven instability and critiques neoclassical equilibrium assumptions
+- [Perry Mehrling](https://www.bu.edu/pardeeschool/profile/perry-mehrling/) - Monetary economist who developed the "money view" framework, bridging central banking, shadow banking, and market-based credit systems
+- [Robert Shiller](http://www.econ.yale.edu/~shiller/) - Nobel laureate in economics known for work on asset price bubbles, behavioral finance, and the CAPE ratio for long-run equity valuation
+- [Jim Simons](https://en.wikipedia.org/wiki/Jim_Simons) - Mathematician and founder of Renaissance Technologies, whose Medallion Fund achieved the greatest sustained returns in investment history
+- [Lyn Alden](https://www.lynalden.com/) - Macro analyst and engineer known for accessible writing on fiscal-monetary interactions, the dollar system, and commodity cycles
+- [Stanley Druckenmiller](https://en.wikipedia.org/wiki/Stanley_Druckenmiller) - Legendary macro trader known for large concentrated bets on currencies, bonds, and equities, and for his role in breaking the Bank of England
 
 ## Papers
 
@@ -137,14 +137,14 @@ A curated collection of books, papers, courses, and resources for studying econo
 
 ### Finance Books
 
-- Option Volatility and Pricing 2nd Ed. - Natemberg (2014) - The standard starting textbook for options traders, covering pricing models, Greeks, and strategy construction in an accessible style
-- Options, Futures, and Other Derivatives 10th Ed. - Hull (2017) - Comprehensive academic textbook on derivatives pricing and risk management, widely used in university courses and by practitioners
-- Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits 2nd Ed. - Passarelli (2012) - Practical guide to understanding and trading the Greeks (delta, gamma, theta, vega) with real-world scenarios
-- Trading Volatility - Bennet (2014) - Santander's desk reference on volatility trading mechanics, covering skew, term structure, and variance swaps
-- Volatility Trading 2nd Ed. - Sinclair (2013) - Practitioner-oriented guide to identifying and trading volatility mispricings using statistical and quantitative methods
-- Dynamic Hedging - Taleb (1997) - Advanced treatment of real-world options risk management, focused on the gap between theory and the messy practice of hedging in illiquid markets
-- The Volatility Surface: A Practitioner's Guide - Gatheral (2006) - Explains how to model and interpret the implied volatility surface, covering local vol, stochastic vol, and their calibration
-- The Volatility Smile - Derman & Miller (2016) - Explores why options trade at different implied volatilities across strikes and how to model the smile/skew from first principles
+- [Option Volatility and Pricing 2nd Ed. - Natenberg (2014)](https://www.goodreads.com/book/show/18606973-option-volatility-and-pricing) - The standard starting textbook for options traders, covering pricing models, Greeks, and strategy construction in an accessible style
+- [Options, Futures, and Other Derivatives 10th Ed. - Hull (2017)](https://www.goodreads.com/book/show/100827.Options_Futures_and_Other_Derivatives) - Comprehensive academic textbook on derivatives pricing and risk management, widely used in university courses and by practitioners
+- [Trading Options Greeks 2nd Ed. - Passarelli (2012)](https://www.goodreads.com/book/show/19268832-trading-options-greeks) - Practical guide to understanding and trading the Greeks (delta, gamma, theta, vega) with real-world scenarios
+- [Trading Volatility - Bennett (2014)](https://www.goodreads.com/book/show/24945749-trading-volatility) - Santander's desk reference on volatility trading mechanics, covering skew, term structure, and variance swaps
+- [Volatility Trading 2nd Ed. - Sinclair (2013)](https://www.goodreads.com/book/show/5404804-volatility-trading-website) - Practitioner-oriented guide to identifying and trading volatility mispricings using statistical and quantitative methods
+- [Dynamic Hedging - Taleb (1997)](https://www.goodreads.com/book/show/204689.Dynamic_Hedging) - Advanced treatment of real-world options risk management, focused on the gap between theory and the messy practice of hedging in illiquid markets
+- [The Volatility Surface: A Practitioner's Guide - Gatheral (2006)](https://www.goodreads.com/book/show/305335.The_Volatility_Surface) - Explains how to model and interpret the implied volatility surface, covering local vol, stochastic vol, and their calibration
+- [The Volatility Smile - Derman & Miller (2016)](https://www.goodreads.com/book/show/31867439-the-volatility-smile) - Explores why options trade at different implied volatilities across strikes and how to model the smile/skew from first principles
 - [The Eurodollar Futures and Options Handbook - Galen Burghardt](https://www.goodreads.com/book/show/8274475-the-eurodollar-futures-and-options-handbook) - Comprehensive guide to the mechanics, pricing, and trading strategies of Eurodollar futures, the backbone of short-term interest rate markets
 - [Trading and Exchanges: Market Microstructure for Practitioners - Larry Harris](https://www.goodreads.com/book/show/1290158.Trading_and_Exchanges) - Explains how markets actually work at the microstructural level: order types, market makers, transaction costs, and why prices move
 - [The Kelly Capital Growth Investment Criterion: Theory and Practice - Leonard C. Maclean, Edward O. Thorp, William T. Ziemba](https://www.goodreads.com/book/show/18887983-the-kelly-capital-growth-investment-criterion?) - Collected papers on the Kelly criterion for optimal bet sizing, from its information-theoretic origins to practical portfolio applications
@@ -229,4 +229,4 @@ A curated collection of books, papers, courses, and resources for studying econo
 - [Volatility of Volatility and VIX Forecasting - Qiao (Journal of Futures Markets, 2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.22553) - Novel vol-of-vol model using high-frequency VIX data with decomposed jumps and wavelet analysis
 
 ### Ergodicity Economics (New)
-- [Ergodicity Transformations Predict Human Decision-Making Under Risk - Peters et al. (OSF Preprints, 2024)](https://osf.io/preprints/) - Experimental support showing ergodicity transformations predict actual human risk decisions
+- [Ergodicity Transformations Predict Human Decision-Making Under Risk - Peters et al. (OSF Preprints, 2024)](https://osf.io/c96yd) - Experimental support showing ergodicity transformations predict actual human risk decisions
