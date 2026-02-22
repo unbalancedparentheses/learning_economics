@@ -8,66 +8,6 @@ A curated collection of books, papers, courses, and resources for studying econo
 
 ---
 
-## Not yet reviewed
-
-> These resources were recently found and have not been reviewed yet.
-
-### Ergodicity Economics
-- [An Introduction to Ergodicity Economics - Ole Peters & Alexander Adamou (LML Press, 2025)](https://ergodicityeconomics.com/an-introduction-to-ergodicity-economics/) - First proper textbook of the field
-- [The ergodicity solution of the cooperation puzzle - Peters & Adamou (Phil. Trans. Royal Society A, 2022)](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0425) - Cooperation as optimal strategy under multiplicative dynamics
-- [Reinforcement learning with non-ergodic reward increments (ICML 2024)](https://arxiv.org/abs/2310.11335) - Ergodicity transformations applied to RL agents
-
-### Volatility & Market Microstructure
-- [The Inelastic Market Hypothesis: A Microstructural Interpretation - Bouchaud (Quantitative Finance, 2022)](https://arxiv.org/abs/2108.00242) - Reconciles Gabaix-Koijen's macro finding with microstructure theory
-- [The 'double' square-root law - Maitrier, Loeper, Kanazawa & Bouchaud (2025)](https://arxiv.org/abs/2502.16246) - Confirms mechanical origin for the square-root impact law
-
-### Monetary Theory
-- [On Par: A Money View of Stablecoins - Aldasoro, Mehrling & Neilson (BIS, 2023)](https://www.bis.org/publ/work1146.htm) - Mehrling's money-view applied to stablecoins as structural Eurodollar analogs
-- [Money and Empire: Charles P. Kindleberger and the Dollar System - Mehrling (Cambridge, 2022)](https://www.cambridge.org/core/books/money-and-empire/CDA682F58594B316CE6BF973307C0356) - Best entry point into the money-view tradition
-- [A Money View of Keynes, Keynesians, and Post-Keynesians - Mehrling (INET, 2024)](https://www.ineteconomics.org/perspectives/blog/a-money-view-of-keynes-keynesians-and-post-keynesians) - Recasts macro history through the money-market plumbing lens
-
-### Complexity Economics
-- [Agent-Based Modeling in Economics and Finance - Axtell & Farmer (Journal of Economic Literature, 2025)](https://www.aeaweb.org/articles?id=10.1257%2Fjel.20221319) - Definitive ABM survey in the discipline's flagship journal
-- [The Economy as an Evolving Complex System IV (SFI Press, 2025)](https://www.sfipress.org/eecs-iv-01) - Latest volume with chapters on AI in markets and production networks
-
-### Tail Risk
-- [Statistical Consequences of Fat Tails (3rd Edition) - Taleb (2025)](https://arxiv.org/abs/2001.10488) - Three new chapters on maximum entropy distributions
-- [Working with Convex Responses: Antifragility from Finance to Oncology - Taleb & West (Entropy, 2023)](https://www.mdpi.com/1099-4300/25/2/343) - Formalizes antifragility as mathematical property of convex dose-response
-
-### Trend Following
-- [Diversifying Alternatives and the Rearview Mirror - Ilmanen & Maloney (AQR, 2025)](https://www.aqr.com/Insights/Research/White-Papers/Diversifying-Alternatives-and-the-Rearview-Mirror) - Why trend-following underperforms expectations during bull markets
-- [The Need for Speed in Trend-Following Strategies - Man AHL (2023)](https://hedgenordic.com/2023/03/the-need-for-speed-in-trend-following-strategies/) - Faster trend systems provide greater crisis-alpha convexity
-
-### Market Microstructure / Bouchaud (New)
-- [Microstructure Modes -- Disentangling the Joint Dynamics of Prices & Order Flow - Elomari-Kessab, Maitrier, Bonart & Bouchaud (2024)](https://arxiv.org/abs/2405.10654) - PCA on order-by-order Eurostoxx data to decompose flow/return patterns into symmetric and anti-symmetric modes
-- [Ponzi Funds - van der Beck, Bouchaud & Villamaina (2024)](https://arxiv.org/abs/2405.12768) - How funds with illiquid portfolios generate self-inflated returns via their own price impact; predicts ETF bubbles
-- [The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility - Maitrier & Bouchaud (2025)](https://arxiv.org/abs/2506.07711) - Reconciles the square-root law of metaorder impact with random-walk prices and linear impact of order imbalances
-
-### Money View / Monetary Theory (New)
-- [Bagehot's Classical Money View: A Reconstruction - Mehrling (INET Working Paper, 2024)](https://www.ineteconomics.org/research/research-papers/bagehots-classical-money-view-a-reconstruction) - Reinterprets Bagehot's Lombard Street as the origin of the key currency tradition
-- [Central Bank Capitalism: Monetary Policy in Times of Crisis - Wullweber (Stanford UP, 2024)](https://www.sup.org/books/politics/central-bank-capitalism) - Shadow banking as backbone of the financial system; central banks as primary stabilizing force
-
-### Dollar System / Stablecoins (New)
-- [Stablecoins, Tokens, and Global Dominance - Rey (IMF Finance & Development, 2025)](https://www.imf.org/en/publications/fandd/issues/2025/09/stablecoins-tokens-global-dominance-helene-rey) - Geopolitical implications of dollar-denominated stablecoins; Tether and USDC hold more Treasuries than Saudi Arabia
-- [Understanding Stablecoins - IMF Departmental Paper (2025)](https://www.imf.org/en/publications/departmental-papers/issues/2025/12/02/understanding-stablecoins-570602) - 56-page overview of stablecoin arrangements, currency substitution risks, and regulatory frameworks
-
-### Complexity Economics (New)
-- [Making Sense of Chaos: A Better Economics for a Better World - J. Doyne Farmer (Yale UP, 2024)](https://yalebooks.yale.edu/book/9780300283327/making-sense-of-chaos/) - Farmer's manifesto for complexity economics using ABMs, big data, and computational methods
-- [Quantitative Agent-Based Models: A Promising Alternative for Macroeconomics - Farmer (Oxford Review of Economic Policy, 2025)](https://academic.oup.com/oxrep/advance-article/doi/10.1093/oxrep/graf027/8281854) - ABMs rival mainstream macro models; examples include leverage cycles, housing, and Covid predictions
-
-### Fiscal-Monetary Interactions (New)
-- [Fiscal R-Star: Fiscal-Monetary Tensions and Implications for Policy - Bolhuis, Koosakul & Shenai (IMF WP, 2024)](https://www.imf.org/en/publications/wp/issues/2024/08/09/fiscal-r-star-fiscal-monetary-tensions-and-implications-for-policy-552877) - 140+ years of data show fiscal-monetary tensions at historic highs, associated with rising debt and crisis risk
-- [Fiscal Dominance: Implications for Bond Markets and Central Banking - Barthelemy, Mengus & Plantin (Annual Review of Financial Economics, 2025)](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-112823-015801) - Models fiscal dominance as strategic interactions between government and central bank
-
-### AI in Finance (New)
-- [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency - Dou, Goldstein & Ji (NBER, 2025)](https://www.nber.org/papers/w34054) - RL-based AI speculators autonomously sustain collusive profits without agreement or communication
-
-### Volatility Research (New)
-- [Volatility of Volatility and VIX Forecasting - Qiao (Journal of Futures Markets, 2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.22553) - Novel vol-of-vol model using high-frequency VIX data with decomposed jumps and wavelet analysis
-
-### Ergodicity Economics (New)
-- [Ergodicity Transformations Predict Human Decision-Making Under Risk - Peters et al. (OSF Preprints, 2024)](https://osf.io/preprints/) - Experimental support showing ergodicity transformations predict actual human risk decisions
-
 ---
 
 ## Table of Contents
@@ -230,3 +170,63 @@ A curated collection of books, papers, courses, and resources for studying econo
 - [Lombard Street: A Description of the Money Market - Walter Bagehot](https://www.goodreads.com/book/show/443427.Lombard_Street) - The 1873 classic that established the principles of central banking, including the famous dictum to lend freely at a penalty rate against good collateral
 - [Adam Smith: What He Thought, and Why it Matters - Jesse Norman](https://www.goodreads.com/book/show/37857057-adam-smith) - Rescues Adam Smith from caricature by showing his full moral philosophy and how it relates to contemporary economic debates
 - [The Marshall Plan: Dawn of the Cold War - Benn Steil](https://www.goodreads.com/book/show/35297577-the-marshall-plan) - Detailed history of the Marshall Plan as both an economic recovery program and a geopolitical strategy that shaped the postwar dollar-based order
+
+## Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Ergodicity Economics
+- [An Introduction to Ergodicity Economics - Ole Peters & Alexander Adamou (LML Press, 2025)](https://ergodicityeconomics.com/an-introduction-to-ergodicity-economics/) - First proper textbook of the field
+- [The ergodicity solution of the cooperation puzzle - Peters & Adamou (Phil. Trans. Royal Society A, 2022)](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0425) - Cooperation as optimal strategy under multiplicative dynamics
+- [Reinforcement learning with non-ergodic reward increments (ICML 2024)](https://arxiv.org/abs/2310.11335) - Ergodicity transformations applied to RL agents
+
+### Volatility & Market Microstructure
+- [The Inelastic Market Hypothesis: A Microstructural Interpretation - Bouchaud (Quantitative Finance, 2022)](https://arxiv.org/abs/2108.00242) - Reconciles Gabaix-Koijen's macro finding with microstructure theory
+- [The 'double' square-root law - Maitrier, Loeper, Kanazawa & Bouchaud (2025)](https://arxiv.org/abs/2502.16246) - Confirms mechanical origin for the square-root impact law
+
+### Monetary Theory
+- [On Par: A Money View of Stablecoins - Aldasoro, Mehrling & Neilson (BIS, 2023)](https://www.bis.org/publ/work1146.htm) - Mehrling's money-view applied to stablecoins as structural Eurodollar analogs
+- [Money and Empire: Charles P. Kindleberger and the Dollar System - Mehrling (Cambridge, 2022)](https://www.cambridge.org/core/books/money-and-empire/CDA682F58594B316CE6BF973307C0356) - Best entry point into the money-view tradition
+- [A Money View of Keynes, Keynesians, and Post-Keynesians - Mehrling (INET, 2024)](https://www.ineteconomics.org/perspectives/blog/a-money-view-of-keynes-keynesians-and-post-keynesians) - Recasts macro history through the money-market plumbing lens
+
+### Complexity Economics
+- [Agent-Based Modeling in Economics and Finance - Axtell & Farmer (Journal of Economic Literature, 2025)](https://www.aeaweb.org/articles?id=10.1257%2Fjel.20221319) - Definitive ABM survey in the discipline's flagship journal
+- [The Economy as an Evolving Complex System IV (SFI Press, 2025)](https://www.sfipress.org/eecs-iv-01) - Latest volume with chapters on AI in markets and production networks
+
+### Tail Risk
+- [Statistical Consequences of Fat Tails (3rd Edition) - Taleb (2025)](https://arxiv.org/abs/2001.10488) - Three new chapters on maximum entropy distributions
+- [Working with Convex Responses: Antifragility from Finance to Oncology - Taleb & West (Entropy, 2023)](https://www.mdpi.com/1099-4300/25/2/343) - Formalizes antifragility as mathematical property of convex dose-response
+
+### Trend Following
+- [Diversifying Alternatives and the Rearview Mirror - Ilmanen & Maloney (AQR, 2025)](https://www.aqr.com/Insights/Research/White-Papers/Diversifying-Alternatives-and-the-Rearview-Mirror) - Why trend-following underperforms expectations during bull markets
+- [The Need for Speed in Trend-Following Strategies - Man AHL (2023)](https://hedgenordic.com/2023/03/the-need-for-speed-in-trend-following-strategies/) - Faster trend systems provide greater crisis-alpha convexity
+
+### Market Microstructure / Bouchaud (New)
+- [Microstructure Modes -- Disentangling the Joint Dynamics of Prices & Order Flow - Elomari-Kessab, Maitrier, Bonart & Bouchaud (2024)](https://arxiv.org/abs/2405.10654) - PCA on order-by-order Eurostoxx data to decompose flow/return patterns into symmetric and anti-symmetric modes
+- [Ponzi Funds - van der Beck, Bouchaud & Villamaina (2024)](https://arxiv.org/abs/2405.12768) - How funds with illiquid portfolios generate self-inflated returns via their own price impact; predicts ETF bubbles
+- [The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility - Maitrier & Bouchaud (2025)](https://arxiv.org/abs/2506.07711) - Reconciles the square-root law of metaorder impact with random-walk prices and linear impact of order imbalances
+
+### Money View / Monetary Theory (New)
+- [Bagehot's Classical Money View: A Reconstruction - Mehrling (INET Working Paper, 2024)](https://www.ineteconomics.org/research/research-papers/bagehots-classical-money-view-a-reconstruction) - Reinterprets Bagehot's Lombard Street as the origin of the key currency tradition
+- [Central Bank Capitalism: Monetary Policy in Times of Crisis - Wullweber (Stanford UP, 2024)](https://www.sup.org/books/politics/central-bank-capitalism) - Shadow banking as backbone of the financial system; central banks as primary stabilizing force
+
+### Dollar System / Stablecoins (New)
+- [Stablecoins, Tokens, and Global Dominance - Rey (IMF Finance & Development, 2025)](https://www.imf.org/en/publications/fandd/issues/2025/09/stablecoins-tokens-global-dominance-helene-rey) - Geopolitical implications of dollar-denominated stablecoins; Tether and USDC hold more Treasuries than Saudi Arabia
+- [Understanding Stablecoins - IMF Departmental Paper (2025)](https://www.imf.org/en/publications/departmental-papers/issues/2025/12/02/understanding-stablecoins-570602) - 56-page overview of stablecoin arrangements, currency substitution risks, and regulatory frameworks
+
+### Complexity Economics (New)
+- [Making Sense of Chaos: A Better Economics for a Better World - J. Doyne Farmer (Yale UP, 2024)](https://yalebooks.yale.edu/book/9780300283327/making-sense-of-chaos/) - Farmer's manifesto for complexity economics using ABMs, big data, and computational methods
+- [Quantitative Agent-Based Models: A Promising Alternative for Macroeconomics - Farmer (Oxford Review of Economic Policy, 2025)](https://academic.oup.com/oxrep/advance-article/doi/10.1093/oxrep/graf027/8281854) - ABMs rival mainstream macro models; examples include leverage cycles, housing, and Covid predictions
+
+### Fiscal-Monetary Interactions (New)
+- [Fiscal R-Star: Fiscal-Monetary Tensions and Implications for Policy - Bolhuis, Koosakul & Shenai (IMF WP, 2024)](https://www.imf.org/en/publications/wp/issues/2024/08/09/fiscal-r-star-fiscal-monetary-tensions-and-implications-for-policy-552877) - 140+ years of data show fiscal-monetary tensions at historic highs, associated with rising debt and crisis risk
+- [Fiscal Dominance: Implications for Bond Markets and Central Banking - Barthelemy, Mengus & Plantin (Annual Review of Financial Economics, 2025)](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-112823-015801) - Models fiscal dominance as strategic interactions between government and central bank
+
+### AI in Finance (New)
+- [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency - Dou, Goldstein & Ji (NBER, 2025)](https://www.nber.org/papers/w34054) - RL-based AI speculators autonomously sustain collusive profits without agreement or communication
+
+### Volatility Research (New)
+- [Volatility of Volatility and VIX Forecasting - Qiao (Journal of Futures Markets, 2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.22553) - Novel vol-of-vol model using high-frequency VIX data with decomposed jumps and wavelet analysis
+
+### Ergodicity Economics (New)
+- [Ergodicity Transformations Predict Human Decision-Making Under Risk - Peters et al. (OSF Preprints, 2024)](https://osf.io/preprints/) - Experimental support showing ergodicity transformations predict actual human risk decisions
